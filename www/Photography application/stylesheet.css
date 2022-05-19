@@ -1,0 +1,26 @@
+body {
+  font: 16px Arial;
+}
+
+}
+.autocomplete {
+  position: relative;
+  display: inline-block;
+}
+
+
+
+.header {
+  background-color: #808080;
+  overflow: hidden;
+}
+
+.header h1 {
+  color: black;
+  font-family: lato regular 400;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+  font-size: 25px;
+}
+
